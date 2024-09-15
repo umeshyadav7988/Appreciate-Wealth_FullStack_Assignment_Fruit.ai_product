@@ -85,7 +85,7 @@ The `fruit.ai` application includes:
 
 ## Deployment
 
-The application is deployed on Vercel. You can access the live version at [https://fruit-ai.vercel.app](https://fruit-ai.vercel.app).
+The application is deployed on Vercel. You can access the live version at [https://fruit-ai.vercel.app](https://fruit-ai.vercel.app](https://appreciate-wealth-full-stack-assignment-fruit-ai-nabe0e735.vercel.app).
 
 ## Project Structure
 
